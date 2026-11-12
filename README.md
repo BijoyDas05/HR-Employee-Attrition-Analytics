@@ -36,6 +36,22 @@ An interactive HR Analytics dashboard developed using Microsoft Power BI to anal
 - Employees Retained: 1,233
 - Overall Attrition Rate: 16.12%
 
+- ## Key Findings
+
+- Overall employee attrition stands at 16.12%, with 237 employees leaving out of 1,470.
+- Sales Representatives have the highest job-role attrition rate at approximately 39.76%.
+- Laboratory Technicians also show relatively high attrition at approximately 23.94%.
+- Employees working overtime show higher attrition, indicating a potential workforce retention concern.
+- Lower job satisfaction is associated with higher observed attrition rates.
+
+- ## HR Recommendations
+
+- Develop targeted retention strategies for high-attrition job roles.
+- Review workload distribution and overtime practices.
+- Strengthen employee engagement and job satisfaction initiatives.
+- Conduct regular employee feedback and retention assessments.
+- Use HR analytics to monitor attrition trends and support workforce planning.
+
 ## Key Skills Demonstrated
 - HR data analysis
 - DAX measures and calculations
@@ -45,9 +61,8 @@ An interactive HR Analytics dashboard developed using Microsoft Power BI to anal
 
 ## The Power BI Project
 
-**Power BI Dashboard:** Screenshots of the dashboard are provided below. 
-
-The Power BI Desktop file contains all three interactive dashboard pages, DAX measures, data model and visualizations.
+**Power BI Dashboard:**
+The interactive Power BI dashboard includes three report pages, DAX measures, a data model, and visualizations. The PBIX file is available upon request for review.
 
 
 
