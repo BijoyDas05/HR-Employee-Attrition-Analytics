@@ -49,3 +49,13 @@ The `.pbix` file is available in this repository for exploring the dashboard.
 ---
 **Developed by Bijoy Das**  
 HR Analytics | Power BI | Data Analysis
+## Dashboard Preview
+
+### 1. HR Overview
+![HR Overview](HR_Overview.png)
+
+### 2. Employee Attrition Analysis
+![Attrition Analysis](Attrition_Analysis.png)
+
+### 3. Employee Satisfaction
+![Employee Satisfaction](Employee_Satisfaction.png)
