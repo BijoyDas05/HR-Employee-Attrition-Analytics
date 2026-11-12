@@ -43,8 +43,13 @@ An interactive HR Analytics dashboard developed using Microsoft Power BI to anal
 - Workforce insights and reporting
 - Data-driven decision-making
 
-## Project File
-The `.pbix` file is available in this repository for exploring the dashboard.
+## Download the Power BI Project
+
+**Power BI Dashboard:** Screenshots of the dashboard are provided below. The interactive Power BI file is available upon request for review.
+
+The Power BI Desktop file contains all three interactive dashboard pages, DAX measures, data model and visualizations.
+
+
 
 ---
 **Developed by Bijoy Das**  
